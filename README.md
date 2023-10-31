@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/Xu-hardy/Xu-hardy/main/assets/github-contribution-grid-snake.svg)              
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212)
 
